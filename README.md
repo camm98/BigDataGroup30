@@ -1,4 +1,4 @@
-Presentation and material about Chapter 6 of The supervised learning workshop
+Chapter 6 of The supervised learning workshop.
 
 
 Group members:
