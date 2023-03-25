@@ -5,12 +5,12 @@ _**Chapter 6 of The supervised learning workshop.**_
 
 Group members:
 
-* *Emylie Traymany
+* *Emylie Traymany* *
 
-* ** *Camille Fik 
+* *Camille Fik * *
 
-* *Douniazed Bouaziz 
+* *Douniazed Bouaziz * *
 
-* *Sihame Lekmine
+* *Sihame Lekmine* *
 
-* *Mohamed-Amine Moujahed
+* *Mohamed-Amine Moujahed* *
