@@ -1,6 +1,6 @@
 **BIG DATA**
 
-Chapter 6 of The supervised learning workshop.
+_**Chapter 6 of The supervised learning workshop.**_
 
 
 Group members:
